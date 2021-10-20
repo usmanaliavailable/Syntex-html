@@ -1,0 +1,14 @@
+<html>
+<head><tiltle>this is a title</title>
+</head>
+<br
+hr>
+<h1>this is a heading</h1>
+<p>this is a paragragh</P>
+<P><center>the paragraph starts from
+center</center></p
+<a
+href="www.ktclothes.com">ktclothes</a>
+<body bgcolor="red">
+</body>
+<p><font color="yellow"> this is a font color</font></P>
